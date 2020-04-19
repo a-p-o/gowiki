@@ -1,0 +1,3 @@
+Written in [Go].
+
+Read about the author [Alex].
